@@ -10,6 +10,10 @@ Drop-down options to display the time
 Time display changes based on what is selected in the drop-down menu
 ![image](https://github.com/kylehraja/DateFormatter/assets/140476247/ac29f8ea-ba8e-4a08-bacc-02b75db3f3af)
 
+How to run project:
+
+1) Download and open the index.html, styles.css, and script.js in VS Code
+2) Run index.html using Chrome (or another browser), whatever extenstion you prefer.
 
 
 
