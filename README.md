@@ -1,5 +1,5 @@
 # Date Formatter
-A Date Formatter that offers various ways to display the current date including years, months, days, hours, and minutes. With the JavaScript Date() object, I was able to use important methods such as getDate(), getMonth(), and getFullYear().
+A Date Formatter that offers various ways to display the current date including years, months, days, hours, and minutes. With the JavaScript Date() object, I was able to use important methods such as getDate(), getMonth(), and getFullYear(). Built using HTML, CSS, and JS.
 
 Overview
 ![image](https://github.com/kylehraja/DateFormatter/assets/140476247/e8733387-7d48-4037-8d3e-ad7fda588dd1)
